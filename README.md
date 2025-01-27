@@ -1,5 +1,6 @@
 # easy-local-ai
 Run Ollama (Llama3.2), Langflow, Postgres, and qdrant server using Docker Compose. 
+Follow the tutorial: https://www.datacamp.com/tutorial/local-ai
 
 ### What’s included
 
